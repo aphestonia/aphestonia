@@ -3,7 +3,7 @@
 <p align="center">
 
 <p align="center">
-  <a href="https://eesti.atabook.org/">Sign my ata</a>
+  <a href="https://eesti.atabook.org/">Atabook</a>
 </p>
 
 <p align="center">
