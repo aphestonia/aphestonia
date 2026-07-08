@@ -5,3 +5,7 @@
 <p align="center">
   <a href="https://eesti.atabook.org/">Sign my ata</a>
 </p>
+
+<p align="center">
+  <a href="https://pronouns.cc/@eesti">Pronouns.cc</a>
+</p>
