@@ -18,6 +18,11 @@
       </td>
     </tr>
   </table>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wjmwq0jqphphu43wq9cerzv0c&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false">
+  </a>
+</p>
   <div align="center">
 <img src="https://github.com/user-attachments/assets/5d4b3df7-cb86-4934-a2f3-b223880eb0af" alt="Header" width="1000">
 </div>
